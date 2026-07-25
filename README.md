@@ -2,7 +2,7 @@
 
 **B.Tech CSE (AI & ML) · HITAM, Hyderabad · 2024–2028**
 
-Working across computer vision and applied ML — from hackathon prototypes to models trained on real experimental data.
+Working across computer vision and applied ML, from hackathon prototypes to models trained on real experimental data.
 
 ---
 
