@@ -27,7 +27,7 @@ Working across computer vision and applied ML, from hackathon prototypes to mode
 ### [ResQWave](https://github.com/Nivedithakatta08/ResQWave)
 - Real-time ambulance detection system that clears traffic signals automatically.
 - **OpenCV + CNN** for detection, **Arduino** for hardware integration.
-- Built at **NeuraX 2.0 Hackathon**.
+- Built at **SIH 2025**.
 
 `Python` · `OpenCV` · `CNN` · `Arduino` · `Real-time CV`
 
