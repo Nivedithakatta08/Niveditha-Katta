@@ -61,4 +61,3 @@ Working across computer vision and applied ML, from hackathon prototypes to mode
 - [Email](mailto:nivedithakatta57@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/niveditha-katta-bb0a5a334)
 
-
