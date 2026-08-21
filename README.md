@@ -5,7 +5,7 @@ Focused on computer vision and applied machine learning, building solutions from
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [Multimodal Deep Learning for Detecting Harmful Content](https://github.com/Nivedithakatta08/multimodal-harmful-content-detection)  
 - Image-text classification pipeline combining ResNet/CLIP (visual) with BERT (text) to detect harmful content in memes.  
@@ -42,7 +42,7 @@ Focused on computer vision and applied machine learning, building solutions from
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category       | Tools                                                                 |
 |----------------|----------------------------------------------------------------------|
@@ -53,14 +53,14 @@ Focused on computer vision and applied machine learning, building solutions from
 
 ---
 
-## 📫 Contact
+## Contact
 
 - [Email](mailto:nivedithakatta57@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/niveditha-katta-bb0a5a334)
 
 ---
 
-## 📌 Highlights
+## Highlights
 
 - Strong foundation in **AI/ML model building** and **computer vision applications**.  
 - Hands-on experience with **real datasets** and **hardware integration**.  
